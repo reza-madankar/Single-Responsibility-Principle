@@ -1,10 +1,10 @@
 # he SOLID principles are a set of object-oriented design principles that help developers create more maintainable, flexible, and scalable software. They stand for:
 
-## S - Single Responsibility Principle (SRP)
-## O - Open/Closed Principle (OCP)
-## L - Liskov Substitution Principle (LSP)
-## I - Interface Segregation Principle (ISP)
-## D - Dependency Inversion Principle (DIP)
+### S - Single Responsibility Principle (SRP)
+### O - Open/Closed Principle (OCP)
+### L - Liskov Substitution Principle (LSP)
+### I - Interface Segregation Principle (ISP)
+### D - Dependency Inversion Principle (DIP)
 Let's go through an example of each principle in C#.
 
 ## 1. Single Responsibility Principle (SRP)
