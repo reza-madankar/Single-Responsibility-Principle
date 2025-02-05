@@ -1,4 +1,4 @@
-### he SOLID principles are a set of object-oriented design principles that help developers create more maintainable, flexible, and scalable software. They stand for:
+### The SOLID principles are a set of object-oriented design principles that help developers create more maintainable, flexible, and scalable software. They stand for:
 
 #### S - Single Responsibility Principle (SRP)
   ##### A class should have only one reason to change, meaning it should have one job or responsibility.
