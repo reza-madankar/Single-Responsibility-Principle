@@ -1,0 +1,14 @@
+C:\Users\mreza\OneDrive\Documents\dotnet\SOLID\SOLID\obj\Debug\net6.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mreza\OneDrive\Documents\dotnet\SOLID\SOLID\obj\Debug\net6.0\SOLID.AssemblyInfoInputs.cache
+C:\Users\mreza\OneDrive\Documents\dotnet\SOLID\SOLID\obj\Debug\net6.0\SOLID.AssemblyInfo.cs
+C:\Users\mreza\OneDrive\Documents\dotnet\SOLID\SOLID\obj\Debug\net6.0\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\mreza\OneDrive\Documents\dotnet\SOLID\SOLID\bin\Debug\net6.0\SOLID.exe
+C:\Users\mreza\OneDrive\Documents\dotnet\SOLID\SOLID\bin\Debug\net6.0\SOLID.deps.json
+C:\Users\mreza\OneDrive\Documents\dotnet\SOLID\SOLID\bin\Debug\net6.0\SOLID.runtimeconfig.json
+C:\Users\mreza\OneDrive\Documents\dotnet\SOLID\SOLID\bin\Debug\net6.0\SOLID.dll
+C:\Users\mreza\OneDrive\Documents\dotnet\SOLID\SOLID\bin\Debug\net6.0\SOLID.pdb
+C:\Users\mreza\OneDrive\Documents\dotnet\SOLID\SOLID\obj\Debug\net6.0\SOLID.dll
+C:\Users\mreza\OneDrive\Documents\dotnet\SOLID\SOLID\obj\Debug\net6.0\refint\SOLID.dll
+C:\Users\mreza\OneDrive\Documents\dotnet\SOLID\SOLID\obj\Debug\net6.0\SOLID.pdb
+C:\Users\mreza\OneDrive\Documents\dotnet\SOLID\SOLID\obj\Debug\net6.0\SOLID.genruntimeconfig.cache
+C:\Users\mreza\OneDrive\Documents\dotnet\SOLID\SOLID\obj\Debug\net6.0\ref\SOLID.dll
